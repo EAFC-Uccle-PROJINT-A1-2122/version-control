@@ -1,3 +1,5 @@
 Bonjour chère classe de PROJINT.
 
 Comment allez-vous ?
+
+Que se passe-t-il si je modifie un fichier déjà ajouté ???
