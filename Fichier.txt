@@ -8,3 +8,5 @@ Des changements dans mon fichier.
 
 Yassine cherche le conflit !
 C'est pas vrai, Yassine ne ferait jamais ça!
+
+C'est bien vrai.
