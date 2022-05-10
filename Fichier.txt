@@ -5,3 +5,5 @@ Comment allez-vous ?
 Que se passe-t-il si je modifie un fichier déjà ajouté ???
 Encore une modif.
 Des changements dans mon fichier.
+
+Yassine cherche le conflit !
